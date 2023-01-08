@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=GameButtons
+comment1.params=ng
+comment1.target=GameButtons(src.nonogram.non_gui.Nonogram)
+comment2.params=e
+comment2.target=void\ saveAction(java.awt.event.ActionEvent)
+comment2.text=\r\n\ Action\ performed\ when\ user\ clicks\ on\ the\ save\ button.\r\n\ The\ state\ of\ each\ cell\ is\ saved\ as\ integers\ to\ a\ file\ like\ a\ grid\ of\ integers\r\n\ @param\ e\ is\ from\ the\ component\ triggering\ this\ action\r\n
+comment3.params=
+comment3.target=java.lang.String\ help()
+comment3.text=\r\n\ Display\ some\ useful\ help\ text\ on\ the\ puzzle\ when\ the\ help\ button\ is\ pressed\r\n
+comment4.params=e
+comment4.target=void\ loadGameAction(java.awt.event.ActionEvent)
+comment4.text=\r\n\ load\ the\ saved\ state\ of\ the\ file\ from\ the\r\n\ @param\ e\ originates\ from\ the\ component\ firing\ this\ action\r\n
+numComments=5

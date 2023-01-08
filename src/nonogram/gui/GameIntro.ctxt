@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GameIntro
+comment1.params=
+comment1.target=GameIntro()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=
+comment3.target=void\ displayGUI()
+comment3.text=\r\n\ Display\ the\ main\ GUI\ for\ the\ application.\r\n\ It\ creates\ a\ new\ instance\ of\ the\ GUI\ class\ and\ calls\r\n\ its\ displayUserInterface\ method\ to\ display\ the\ GUI.\r\n
+comment4.params=
+comment4.target=void\ displayTextUI()
+comment4.text=\r\n\ This\ method\ displays\ the\ text-based\ UI\ for\ the\ application.\r\n\ It\ creates\ a\ new\ instance\ of\ the\ NonogramUI\ class\ and\ calls\r\n\ its\ menu\ method\ to\ display\ the\ UI.\r\n
+numComments=5

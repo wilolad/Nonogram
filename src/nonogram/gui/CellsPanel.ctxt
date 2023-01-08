@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=CellsPanel
+comment1.params=ng\ btnCells\ gridRow\ gridCol
+comment1.target=CellsPanel(src.nonogram.non_gui.Nonogram,\ javax.swing.JButton[][],\ int,\ int)
+comment2.params=row\ col\ state
+comment2.target=void\ move(int,\ int,\ int)
+comment2.text=\r\n\ makes\ a\ move\ updating\ the\ state\ of\ the\ cell\ to\r\n\ @param\ row\r\n\ @param\ col\r\n\ @param\ state\ either\ FULL,\ UNKNOWN\ or\ EMPTY\r\n
+numComments=3
