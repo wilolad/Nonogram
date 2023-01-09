@@ -1,4 +1,4 @@
-# Nonogram Puzzle - Modupe
+# Nonogram Puzzle - Olawale
 
 ## Problem Statement:
 The tasks you are to carry out are as follows:
